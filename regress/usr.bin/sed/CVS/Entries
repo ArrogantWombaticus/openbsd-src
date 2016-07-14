@@ -1,0 +1,23 @@
+/Makefile/1.5/Fri Jul 17 20:42:03 2015//
+/dc.expected/1.1/Mon Oct 13 13:22:10 2008//
+/dc.in/1.1/Mon Oct 13 13:22:10 2008//
+/dc.sed/1.1/Mon Oct 13 13:22:10 2008//
+/hanoi.expected/1.1/Fri Oct 10 14:33:34 2008//
+/hanoi.in/1.1/Thu Oct 22 17:34:03 2009//
+/hanoi.sed/1.1/Fri Oct 10 14:33:34 2008//
+/inplace.in/1.1/Fri Jul 17 20:42:03 2015//
+/inplace2.expected/1.2/Mon Jul 20 18:26:01 2015//
+/inplace2.in/1.2/Mon Jul 20 18:26:01 2015//
+/inplace3.expected/1.1/Fri Jul 17 20:42:03 2015//
+/inplace3.in/1.1/Fri Jul 17 20:42:03 2015//
+/math.expected/1.2/Sun May 10 01:45:12 2015//
+/math.in/1.2/Sun May 10 01:45:12 2015//
+/math.sed/1.2/Sun May 10 01:45:12 2015//
+/negation.expected/1.1/Tue Jun 23 22:53:14 2015//
+/sedtest.expected/1.4/Tue May  3 18:19:29 2016//
+/sedtest.sh/1.5/Sat Jul  3 02:34:36 2010//
+/sierpinski.expected/1.1/Fri Oct 10 14:33:34 2008//
+/sierpinski.in/1.1/Thu Oct 22 17:34:03 2009//
+/sierpinski.sed/1.1/Fri Oct 10 14:33:34 2008//
+/substitute.sh/1.4/Mon May 30 16:31:02 2016//
+D

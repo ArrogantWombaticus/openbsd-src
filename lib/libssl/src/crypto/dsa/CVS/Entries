@@ -1,0 +1,15 @@
+/dsa.h/1.21/Thu Jun 30 02:02:06 2016//
+/dsa_ameth.c/1.19/Tue Mar  1 07:04:41 2016//
+/dsa_asn1.c/1.16/Sat Feb 14 15:06:55 2015//
+/dsa_depr.c/1.7/Sat Oct 18 17:20:40 2014//
+/dsa_err.c/1.14/Thu Jul 10 22:45:56 2014//
+/dsa_gen.c/1.22/Wed Jul 15 18:34:37 2015//
+/dsa_key.c/1.22/Thu Jun 30 02:02:06 2016//
+/dsa_lib.c/1.22/Wed Feb 11 03:19:37 2015//
+/dsa_locl.h/1.2/Thu Jun 12 15:49:28 2014//
+/dsa_ossl.c/1.26/Tue Jun 21 04:16:53 2016//
+/dsa_pmeth.c/1.10/Fri Jul 11 08:44:48 2014//
+/dsa_prn.c/1.5/Fri Jul 11 08:44:48 2014//
+/dsa_sign.c/1.19/Sat Oct 18 17:20:40 2014//
+/dsa_vrf.c/1.16/Fri Jul 11 08:44:48 2014//
+D

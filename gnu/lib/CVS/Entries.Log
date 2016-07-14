@@ -1,0 +1,8 @@
+A D/libf2c////
+A D/libg++////
+A D/libgmp////
+A D/libmalloc////
+R D/libmalloc////
+R D/libgmp////
+R D/libg++////
+R D/libf2c////

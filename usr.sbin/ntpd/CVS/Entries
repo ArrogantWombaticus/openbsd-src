@@ -1,0 +1,20 @@
+/Makefile/1.16/Fri Nov 20 18:53:42 2015//
+/client.c/1.103/Fri Oct 23 14:52:20 2015//
+/config.c/1.28/Mon Oct 12 06:50:08 2015//
+/constraint.c/1.29/Wed Jun  1 16:35:58 2016//
+/control.c/1.10/Sun Mar 27 11:16:12 2016//
+/log.c/1.13/Sat Dec 19 17:55:29 2015//
+/ntp.c/1.141/Sat Dec 19 17:55:29 2015//
+/ntp.h/1.13/Wed Apr 22 07:42:17 2009//
+/ntp_dns.c/1.16/Sat Dec 19 17:55:29 2015//
+/ntp_msg.c/1.21/Tue Feb 10 06:01:01 2015//
+/ntpctl.8/1.8/Wed Mar 11 19:38:48 2015//
+/ntpd.8/1.40/Fri Oct 30 16:41:53 2015//
+/ntpd.c/1.107/Mon May  2 06:25:29 2016//
+/ntpd.conf.5/1.33/Fri Oct 23 14:52:20 2015//
+/ntpd.h/1.130/Sun Mar 27 11:16:12 2016//
+/parse.y/1.65/Sat Oct 31 19:32:18 2015//
+/sensors.c/1.50/Wed May 20 13:32:39 2015//
+/server.c/1.43/Sat Jul 18 00:53:44 2015//
+/util.c/1.20/Sat Dec 19 13:58:08 2015//
+D

@@ -1,0 +1,19 @@
+/ChangeLog/1.1.1.3/Wed Nov 28 20:41:40 2012//
+/README/1.1.1.1/Sat Nov 29 12:36:48 2003//
+/README.QMTEST/1.1.1.1/Sat Nov 29 12:36:48 2003//
+/README.compat/1.1.1.1/Sat Nov 29 12:36:48 2003//
+/README.g++/1.1.1.1/Sat Nov 29 12:36:48 2003//
+/README.gcc/1.1.1.1/Sat Nov 29 12:36:48 2003//
+D/config////
+D/consistency.vlad////
+D/g++.dg////
+D/g++.old-deja////
+D/g77.dg////
+D/g77.f-torture////
+D/gcc.c-torture////
+D/gcc.dg////
+D/gcc.misc-tests////
+D/lib////
+D/objc////
+D/objc.dg////
+D/treelang////

@@ -1,0 +1,10 @@
+/Makefile.inc/1.3/Sun Nov 30 19:43:56 2014//
+/bcmp.S/1.5/Mon Aug 31 02:53:56 2015//
+/bcopy.S/1.5/Mon Aug 31 02:53:56 2015//
+/bzero.S/1.6/Mon Aug 31 02:53:56 2015//
+/ffs.S/1.4/Mon Aug 31 02:53:56 2015//
+/strchr.S/1.3/Mon Aug 31 02:53:56 2015//
+/strcmp.S/1.5/Mon Aug 31 02:53:56 2015//
+/strlen.S/1.5/Mon Aug 31 02:53:56 2015//
+/strrchr.S/1.3/Mon Aug 31 02:53:56 2015//
+D

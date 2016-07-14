@@ -1,0 +1,24 @@
+/ChangeLog/1.1.1.2/Fri Dec 24 22:40:41 2004//
+/ChangeLog-2000/1.1.1.1/Mon Jan  5 15:42:37 2004//
+/ChangeLog-2001/1.1.1.1/Mon Jan  5 15:42:47 2004//
+/Makefile.am/1.1.1.1/Mon Jan  5 15:42:47 2004//
+/Makefile.in/1.2/Mon Jan  5 15:58:59 2004//
+/README/1.1.1.1/Mon Jan  5 15:42:47 2004//
+/acconfig.h/1.1.1.1/Mon Jan  5 15:42:47 2004//
+/acinclude.m4/1.1.1.2/Fri Dec 24 22:40:37 2004//
+/aclocal.m4/1.2/Fri Dec 24 23:17:22 2004//
+/config.h.in/1.1.1.1/Mon Jan  5 15:42:53 2004//
+/configure/1.5/Fri Dec 24 23:17:22 2004//
+/configure.in/1.1.1.2/Fri Dec 24 22:40:25 2004//
+/configure.target/1.2/Sat Apr  9 11:41:49 2005//
+/mkcheck.in/1.1.1.1/Mon Jan  5 15:43:07 2004//
+/testsuite_flags.in/1.1.1.1/Mon Jan  5 15:43:07 2004//
+D/config////
+D/docs////
+D/include////
+D/libio////
+D/libmath////
+D/libsupc++////
+D/po////
+D/src////
+D/testsuite////

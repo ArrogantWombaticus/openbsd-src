@@ -1,0 +1,14 @@
+A D/check////
+A D/dnssec////
+A D/named////
+A D/nsupdate////
+A D/rndc////
+A D/tests////
+A D/win32////
+R D/win32////
+R D/tests////
+R D/rndc////
+R D/nsupdate////
+R D/named////
+R D/dnssec////
+R D/check////

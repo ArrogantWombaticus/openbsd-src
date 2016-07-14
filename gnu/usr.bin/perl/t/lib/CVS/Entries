@@ -1,0 +1,32 @@
+/1_compile.t/1.1.1.7/Mon Mar 24 14:59:09 2014/-ko/
+/Cname.pm/1.1.1.2/Fri Sep 24 14:49:15 2010/-ko/
+/Count.pm/1.1.1.1/Mon Mar 24 14:59:09 2014/-kb/
+/Sans_mypragma.pm/1.1.1.1/Mon Oct 12 18:10:43 2009/-ko/
+/common.pl/1.1.1.6/Mon Nov 17 20:53:17 2014/-ko/
+/commonsense.t/1.1.1.3/Mon Mar 24 14:59:09 2014/-ko/
+/compmod.pl/1.1.1.1/Sun Oct 27 22:15:10 2002/-ko/
+/croak.t/1.1.1.2/Mon Mar 25 20:09:33 2013/-ko/
+/cygwin.t/1.1.1.5/Mon Mar 25 20:09:33 2013/-ko/
+/dbmt_common.pl/1.1.1.1/Mon Mar 25 20:09:33 2013/-ko/
+/deprecate.t/1.1.1.2/Mon Mar 25 20:09:33 2013/-ko/
+/h2ph.h/1.1.1.6/Mon Mar 25 20:09:33 2013/-ko/
+/h2ph.pht/1.6/Sat Apr 25 19:26:22 2015/-ko/
+/mypragma.pm/1.1.1.1/Mon Sep 29 17:18:59 2008/-ko/
+/mypragma.t/1.1.1.3/Fri Sep 24 14:49:15 2010/-ko/
+/no_load.t/1.1.1.3/Mon Nov 17 20:53:17 2014/-ko/
+/overload_fallback.t/1.1.1.1/Fri Sep 24 14:49:15 2010/-ko/
+/overload_nomethod.t/1.1.1.1/Mon Mar 25 20:09:33 2013/-ko/
+/proxy_constant_subs.t/1.1.1.4/Mon Mar 25 20:09:33 2013/-ko/
+/test_require.pm/1.1.1.1/Mon Mar 24 14:59:09 2014/-kb/
+/test_use.pm/1.1.1.1/Fri Sep 24 14:49:15 2010/-ko/
+/test_use_14937.pm/1.1.1.1/Fri Sep 24 14:49:15 2010/-ko/
+/universal.t/1.1.1.3/Mon Nov 17 20:53:17 2014/-ko/
+D/Devel////
+D/charnames////
+D/croak////
+D/deprecate////
+D/feature////
+D/locale////
+D/strict////
+D/subs////
+D/warnings////

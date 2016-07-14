@@ -1,0 +1,28 @@
+/Makefile/1.18/Fri Mar 21 19:55:11 2014//
+/auth.c/1.38/Fri Jun 24 17:22:56 2016//
+/cbcp.c/1.8/Sat May  1 08:14:26 2010//
+/cbcp.h/1.2/Fri Sep 13 18:19:45 2002//
+/ccp.c/1.13/Tue Oct 27 23:59:53 2009//
+/ccp.h/1.6/Fri Sep 13 00:12:10 2002//
+/chap.c/1.18/Thu Jan 15 23:19:48 2015//
+/chap.h/1.8/Fri Sep 13 00:12:10 2002//
+/demand.c/1.11/Fri Jan 16 06:40:19 2015//
+/fsm.c/1.8/Tue Oct 27 23:59:53 2009//
+/fsm.h/1.5/Mon Jul  1 19:31:37 2002//
+/ipcp.c/1.15/Mon Dec 14 03:25:59 2015//
+/ipcp.h/1.7/Mon Jul  1 19:31:37 2002//
+/lcp.c/1.13/Mon Dec 14 03:25:59 2015//
+/lcp.h/1.7/Mon Jul  1 19:31:37 2002//
+/magic.c/1.10/Sun Sep 29 16:24:22 2013//
+/magic.h/1.4/Mon Jul  1 19:31:37 2002//
+/main.c/1.54/Thu Mar 17 19:40:43 2016//
+/options.c/1.29/Sun Dec  6 12:00:16 2015//
+/patchlevel.h/1.7/Fri May  8 04:52:30 1998//
+/pathnames.h/1.6/Mon Jun  4 14:59:45 2007//
+/pppd.8/1.46/Wed Oct 28 10:02:59 2015//
+/pppd.h/1.21/Sun Dec  6 12:00:16 2015//
+/sys-bsd.c/1.27/Sat Sep 12 12:42:36 2015//
+/upap.c/1.10/Tue Oct 27 23:59:53 2009//
+/upap.h/1.6/Mon Jul  1 19:31:37 2002//
+D/chat////
+D/pppstats////

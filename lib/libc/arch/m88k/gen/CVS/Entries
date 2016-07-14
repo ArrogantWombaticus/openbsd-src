@@ -1,0 +1,19 @@
+/Makefile.inc/1.16/Wed Jun  5 22:06:30 2013//
+/_setjmp.S/1.13/Mon May 23 00:18:57 2016//
+/divsi3.S/1.3/Wed Jun  5 22:48:21 2013//
+/fabs.S/1.11/Fri Jan 11 21:23:24 2013//
+/flt_rounds.c/1.6/Tue Oct 27 05:54:49 2015//
+/fpgetmask.c/1.4/Sat Jan  5 11:20:55 2013//
+/fpgetround.c/1.4/Sat Jan  5 11:20:55 2013//
+/fpgetsticky.c/1.4/Sat Jan  5 11:20:55 2013//
+/fpsetmask.c/1.4/Sat Jan  5 11:20:55 2013//
+/fpsetround.c/1.4/Sat Jan  5 11:20:55 2013//
+/fpsetsticky.c/1.4/Sat Jan  5 11:20:55 2013//
+/infinity.c/1.4/Sun Aug  7 16:40:14 2005//
+/modsi3.S/1.2/Wed Jun  5 22:48:21 2013//
+/nan.c/1.1/Thu Jul 24 09:31:06 2008//
+/setjmp.S/1.15/Mon May 23 00:18:57 2016//
+/sigsetjmp.S/1.16/Mon May 23 00:18:57 2016//
+/udivsi3.S/1.3/Wed Jun  5 22:48:21 2013//
+/umodsi3.S/1.2/Wed Jun  5 22:48:21 2013//
+D

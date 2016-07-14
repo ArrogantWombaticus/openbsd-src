@@ -1,0 +1,44 @@
+/.cvsignore/1.1/Fri Jun  7 11:03:29 1996//
+/COPYING/1.2/Tue Sep 12 22:24:18 2000//
+/COPYING.LIB/1.2/Tue Sep 12 19:10:55 2000//
+/Makefile.bsd-wrapper/1.83/Mon Jun  1 17:36:19 2015//
+/Makefile.def/1.1.1.2/Tue Nov  2 20:21:58 2004//
+/Makefile.in/1.15/Mon Jan 14 22:51:12 2008//
+/Makefile.tpl/1.3/Tue Nov  2 20:44:58 2004//
+/README/1.3/Tue Sep 12 19:10:55 2000//
+/config-ml.in/1.6/Tue Nov  2 20:44:58 2004//
+/config.guess/1.29/Sat Apr 16 18:55:41 2005//
+/config.if/1.1.1.4/Tue Nov  2 20:21:57 2004//
+/config.sub/1.13/Tue Nov  2 20:44:58 2004//
+/configure/1.11/Fri Jul  5 21:09:21 2013//
+/configure.in/1.21/Fri Jul  5 21:09:21 2013//
+/gettext.m4/1.1.1.3/Tue Nov  2 20:21:58 2004//
+/install-sh/1.1.1.2/Tue Nov  2 20:21:57 2004//
+/libtool.m4/1.1.1.2/Mon May 17 20:42:01 2004//
+/ltcf-c.sh/1.1.1.2/Mon May 17 20:42:01 2004//
+/ltcf-cxx.sh/1.1.1.2/Mon May 17 20:42:01 2004//
+/ltcf-gcj.sh/1.1.1.2/Mon May 17 20:42:01 2004//
+/ltconfig/1.1.1.4/Tue Nov  2 20:21:57 2004//
+/ltmain.sh/1.1.1.3/Mon May 17 20:42:01 2004//
+/makefile.vms/1.1.1.2/Tue Sep 12 14:44:58 2000//
+/md5.sum/1.1.1.3/Tue Nov  2 20:21:58 2004//
+/missing/1.1.1.2/Tue Nov  2 20:21:58 2004//
+/mkdep/1.1.1.1/Tue Sep 12 14:44:58 2000//
+/mkinstalldirs/1.1.1.2/Tue Nov  2 20:21:57 2004//
+/move-if-change/1.3/Tue Sep 12 19:10:56 2000//
+/setup.com/1.1.1.1/Thu May 29 09:15:21 1997//
+/src-release/1.1.1.2/Tue Nov  2 20:21:58 2004//
+/symlink-tree/1.5/Tue Nov  2 20:44:58 2004//
+/ylwrap/1.1.1.1/Tue Sep 12 14:44:58 2000//
+D/bfd////
+D/binutils////
+D/config////
+D/cpu////
+D/etc////
+D/gas////
+D/gdb////
+D/gprof////
+D/include////
+D/intl////
+D/ld////
+D/opcodes////

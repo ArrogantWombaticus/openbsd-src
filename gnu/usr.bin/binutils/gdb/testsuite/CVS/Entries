@@ -1,0 +1,25 @@
+/.gdbinit/1.2/Sat Nov 23 03:49:10 1996//
+/ChangeLog/1.4/Mon Dec 27 14:00:54 2004//
+/Makefile.in/1.4/Mon Dec 27 14:00:55 2004//
+/TODO/1.2/Sat Nov 23 03:49:14 1996//
+/aclocal.m4/1.2/Sat Nov 23 03:49:14 1996//
+/configure/1.6/Mon Dec 27 14:00:55 2004//
+/configure.in/1.4/Mon Dec 27 14:00:55 2004//
+D/config////
+D/gdb.ada////
+D/gdb.arch////
+D/gdb.asm////
+D/gdb.base////
+D/gdb.cp////
+D/gdb.disasm////
+D/gdb.dwarf2////
+D/gdb.fortran////
+D/gdb.gdb////
+D/gdb.hp////
+D/gdb.java////
+D/gdb.mi////
+D/gdb.objc////
+D/gdb.stabs////
+D/gdb.threads////
+D/gdb.trace////
+D/lib////

@@ -1,0 +1,12 @@
+A D/CBuilder////
+A D/Command////
+A D/Constant////
+A D/Liblist////
+A D/MakeMaker////
+A D/ParseXS////
+R D/ParseXS////
+R D/MakeMaker////
+R D/Liblist////
+R D/Constant////
+R D/Command////
+R D/CBuilder////

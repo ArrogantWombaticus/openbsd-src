@@ -1,0 +1,24 @@
+/CHANGES/1.1.1.1/Mon Aug 19 10:12:11 1996/-ko/
+/COMPARE/1.1.1.1/Mon Aug 19 10:12:11 1996/-ko/
+/Makefile.PL/1.6/Wed Dec  3 03:02:33 2003/-ko/
+/README/1.1.1.3/Mon Mar 24 14:59:02 2014/-ko/
+/README.too/1.1.1.3/Wed Dec  3 02:43:53 2003/-ko/
+/biblio/1.1.1.2/Mon Mar 25 20:08:46 2013/-ko/
+/dba.c/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/
+/dbd.c/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/
+/dbe.1/1.1.1.1/Mon Aug 19 10:12:12 1996/-ko/
+/dbe.c/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/
+/dbu.c/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/
+/grind/1.1.1.1/Mon Aug 19 10:12:12 1996/-ko/
+/hash.c/1.1.1.4/Mon Mar 24 14:59:02 2014/-ko/
+/linux.patches/1.1.1.1/Mon Aug 19 10:12:13 1996/-ko/
+/makefile.sdbm/1.1.1.1/Mon Aug 19 10:12:13 1996/-ko/
+/pair.c/1.7/Mon Mar 24 15:05:27 2014/-ko/
+/pair.h/1.3/Thu Apr  6 17:05:35 2000/-ko/
+/readme.ms/1.12/Mon Mar 24 15:05:27 2014/-ko/
+/sdbm.3/1.11/Mon Mar 25 20:40:54 2013/-ko/
+/sdbm.c/1.14/Mon Nov 17 20:57:06 2014/-ko/
+/sdbm.h/1.8/Mon Mar 24 15:05:27 2014/-ko/
+/tune.h/1.1.1.1/Mon Aug 19 10:12:15 1996/-ko/
+/util.c/1.1.1.3/Mon Mar 24 14:59:02 2014/-ko/
+D

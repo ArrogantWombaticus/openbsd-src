@@ -1,0 +1,16 @@
+A D/bsdi////
+A D/common////
+A D/darwin////
+A D/freebsd////
+A D/freeswan////
+A D/linux////
+A D/netbsd////
+A D/openbsd-encap////
+R D/openbsd-encap////
+R D/netbsd////
+R D/linux////
+R D/freeswan////
+R D/freebsd////
+R D/darwin////
+R D/common////
+R D/bsdi////

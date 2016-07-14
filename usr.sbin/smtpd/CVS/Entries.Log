@@ -1,0 +1,12 @@
+A D/libsmtpdfilter////
+A D/makemap////
+A D/newaliases////
+A D/table-ldap////
+A D/table-passwd////
+A D/table-sqlite////
+R D/table-sqlite////
+R D/table-passwd////
+R D/table-ldap////
+R D/newaliases////
+R D/makemap////
+R D/libsmtpdfilter////

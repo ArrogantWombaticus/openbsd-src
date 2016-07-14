@@ -1,0 +1,14 @@
+/Makefile/1.23/Wed Mar 30 06:38:43 2016//
+/shlib_version/1.17/Thu Apr 28 17:07:06 2016//
+/tls.c/1.41/Thu Jul  7 14:09:03 2016//
+/tls.h/1.29/Fri May 27 14:21:24 2016//
+/tls_client.c/1.33/Thu Apr 28 17:05:59 2016//
+/tls_config.c/1.21/Thu Jul  7 14:09:03 2016//
+/tls_conninfo.c/1.5/Wed Oct  7 23:33:38 2015//
+/tls_init.3/1.61/Fri May 27 11:25:57 2016//
+/tls_internal.h/1.31/Thu Jul  7 14:09:03 2016//
+/tls_peer.c/1.5/Wed Oct  7 23:33:38 2015//
+/tls_server.c/1.19/Thu Apr 28 17:05:59 2016//
+/tls_util.c/1.3/Wed Sep  9 19:49:07 2015//
+/tls_verify.c/1.15/Tue Sep 29 13:10:53 2015//
+D

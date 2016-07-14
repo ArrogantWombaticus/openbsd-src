@@ -1,0 +1,26 @@
+/Makefile/1.13/Mon Feb 16 11:39:34 2015//
+/basic.in/1.1/Sun Jul  8 18:38:07 2012//
+/basic.out_ascii/1.2/Tue Aug 26 11:32:55 2014//
+/break.in/1.3/Tue Apr  8 04:45:50 2014//
+/break.out_ascii/1.4/Tue Aug 26 11:32:55 2014//
+/eos.in/1.1/Sun Nov 18 00:05:28 2012//
+/eos.out_ascii/1.2/Tue Aug 26 11:32:55 2014//
+/font.in/1.1/Mon Jul  9 17:52:09 2012//
+/font.out_ascii/1.2/Tue Aug 26 11:32:55 2014//
+/noarg.in/1.5/Fri Feb  6 03:31:11 2015//
+/noarg.out_ascii/1.5/Tue Aug 26 11:32:55 2014//
+/noarg.out_lint/1.3/Tue Dec  1 01:07:36 2015//
+/nohead.in/1.1/Fri Feb  6 03:31:11 2015//
+/nohead.out_ascii/1.1/Fri Feb  6 03:31:11 2015//
+/nohead.out_lint/1.1/Fri Feb  6 03:31:11 2015//
+/obsolete.in/1.1/Wed Jul  2 03:47:07 2014//
+/obsolete.out_ascii/1.2/Tue Aug 26 11:32:55 2014//
+/obsolete.out_lint/1.1/Wed Jul  2 03:47:07 2014//
+/punct.in/1.1/Thu Nov 20 00:30:34 2014//
+/punct.out_ascii/1.1/Thu Nov 20 00:30:34 2014//
+/section.in/1.2/Thu Nov 17 16:28:45 2011//
+/section.out_ascii/1.3/Tue Aug 26 11:32:55 2014//
+/warn.in/1.1/Sat Oct 11 21:14:11 2014//
+/warn.out_ascii/1.1/Sat Oct 11 21:14:11 2014//
+/warn.out_lint/1.1/Sat Oct 11 21:14:11 2014//
+D

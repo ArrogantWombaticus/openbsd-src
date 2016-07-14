@@ -1,0 +1,23 @@
+/00use.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/01local-client-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/02local-server-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/03local-cross-v4.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/04local-client-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/05local-server-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/06local-cross-v6.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/10args.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/11sockopts.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/12port-fallback.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/13addrinfo.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/14fileno.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/15io-socket.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/16v6only.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/17gai-flags.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/18fdopen.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/19no-addrs.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/20subclass.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/21as-inet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/30nonblocking-connect.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/31nonblocking-connect-internet.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+/99pod.t/1.1.1.1/Mon Nov 17 20:52:48 2014/-kb/
+D

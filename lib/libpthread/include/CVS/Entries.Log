@@ -1,0 +1,6 @@
+A D/arpa////
+A D/pthread////
+A D/sys////
+R D/sys////
+R D/pthread////
+R D/arpa////

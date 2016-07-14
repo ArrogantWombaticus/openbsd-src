@@ -1,0 +1,68 @@
+/MAKEDEV.common/1.89/Thu May 26 16:29:51 2016//
+/MAKEDEV.man/1.8/Sat Mar 12 17:59:27 2016//
+/MAKEDEV.mansub/1.2/Fri Feb 20 19:13:01 2004//
+/MAKEDEV.mi/1.82/Sat Mar 12 17:58:59 2016//
+/MAKEDEV.sub/1.14/Mon Feb  7 06:14:18 2005//
+/Makefile/1.425/Thu May 26 16:29:51 2016//
+/Makefile.inc/1.8/Thu May 26 16:29:51 2016//
+/changelist/1.112/Wed Apr 20 12:41:30 2016//
+/crontab/1.21/Mon Sep 15 22:28:58 2014//
+/csh.cshrc/1.2/Sun May 26 10:25:19 1996//
+/csh.login/1.2/Sun May 26 10:25:19 1996//
+/csh.logout/1.2/Sun May 26 10:25:20 1996//
+/daily/1.88/Fri Apr 29 13:05:33 2016//
+/fbtab.head/1.2/Wed May  5 06:56:34 1999//
+/fbtab.tail/1.2/Sat Aug 24 21:07:30 1996//
+/ftpusers/1.50/Mon Mar 17 21:01:02 2014//
+/gettytab/1.5/Tue Dec 10 20:56:59 2013//
+/group/1.79/Sat Mar  5 12:31:38 2016//
+/ksh.kshrc/1.20/Wed Feb 18 08:39:32 2015//
+/locate.rc/1.7/Fri Aug 14 03:02:07 2015//
+/mailer.conf/1.7/Mon Dec  7 12:32:06 2015//
+/master.passwd/1.88/Sat Mar  5 12:31:38 2016//
+/minfree/1.1/Mon Dec 18 15:18:15 1995//
+/moduli/1.17/Tue Mar  1 04:23:08 2016//
+/monthly/1.13/Wed Jan 19 06:18:05 2011//
+/motd/1.8/Sun Jan 11 14:08:38 1998//
+/netstart/1.168/Sun Mar 27 20:32:42 2016//
+/networks/1.5/Mon Sep 15 09:54:52 1997//
+/newsyslog.conf/1.35/Wed Jun  1 16:57:07 2016//
+/nsd.conf/1.11/Sun Apr 12 11:49:39 2015//
+/ntpd.conf/1.14/Wed Jul 15 20:28:37 2015//
+/pf.conf/1.54/Sat Aug 23 05:49:42 2014//
+/pf.os/1.26/Fri Aug  3 12:25:16 2012//
+/protocols/1.24/Sat Jul 12 14:38:38 2014//
+/rc/1.486/Sun Jul 10 09:08:18 2016//
+/rc.conf/1.211/Sun Dec  6 13:51:41 2015//
+/rpc/1.6/Thu Mar 13 15:22:21 2014//
+/services/1.94/Mon Jul 27 11:02:39 2015//
+/shells/1.8/Sat Feb 14 17:06:40 2009//
+/syslog.conf/1.19/Thu Nov 26 15:25:14 2015//
+/ttys.pty/1.6/Wed Jul 16 14:34:33 2014//
+/unbound.conf/1.7/Wed Mar 30 01:41:25 2016//
+/weekly/1.27/Fri Aug 14 03:02:07 2015//
+D/amd////
+D/etc.alpha////
+D/etc.amd64////
+D/etc.armish////
+D/etc.armv7////
+D/etc.hppa////
+D/etc.i386////
+D/etc.landisk////
+D/etc.loongson////
+D/etc.luna88k////
+D/etc.macppc////
+D/etc.octeon////
+D/etc.sgi////
+D/etc.socppc////
+D/etc.sparc////
+D/etc.sparc64////
+D/etc.zaurus////
+D/examples////
+D/mail////
+D/mtree////
+D/ppp////
+D/rc.d////
+D/root////
+D/signify////
+D/skel////

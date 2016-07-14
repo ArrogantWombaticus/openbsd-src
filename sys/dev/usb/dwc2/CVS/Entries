@@ -1,0 +1,14 @@
+/dwc2.c/1.36/Wed Dec 23 12:38:40 2015//
+/dwc2.h/1.13/Sun Jun 28 11:48:18 2015//
+/dwc2_core.c/1.6/Sun Jun 28 11:48:18 2015//
+/dwc2_core.h/1.9/Sun Jun 28 11:48:18 2015//
+/dwc2_coreintr.c/1.8/Sun Jun 28 11:48:18 2015//
+/dwc2_hcd.c/1.16/Sun Jun 28 11:48:18 2015//
+/dwc2_hcd.h/1.13/Sun Jun 28 11:48:18 2015//
+/dwc2_hcdddma.c/1.11/Fri Dec 18 17:23:14 2015//
+/dwc2_hcdintr.c/1.6/Sun Jun 28 11:48:18 2015//
+/dwc2_hcdqueue.c/1.7/Sun Jun 28 11:48:18 2015//
+/dwc2_hw.h/1.2/Tue Feb 10 12:58:47 2015//
+/dwc2var.h/1.16/Thu Sep  3 14:22:27 2015//
+/files.dwc2/1.2/Tue Feb 10 12:51:42 2015//
+D

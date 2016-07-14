@@ -1,0 +1,8 @@
+A D/boot.com////
+A D/installboot////
+A D/libkern////
+A D/libz////
+R D/libz////
+R D/libkern////
+R D/installboot////
+R D/boot.com////

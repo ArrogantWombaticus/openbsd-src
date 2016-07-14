@@ -1,0 +1,22 @@
+/embed.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/embed_lib.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/
+/feature.pl/1.1.1.4/Sat Apr 25 19:10:49 2015/-ko/
+/genpacksizetables.pl/1.1.1.1/Mon Nov 17 20:53:19 2014/-kb/
+/keywords.pl/1.1.1.2/Mon Nov 17 20:53:19 2014/-ko/
+/lib_cleanup.pl/1.2/Sun Jul  3 01:08:03 2016/-kb/
+/mg_vtable.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/miniperlmain.pl/1.1.1.1/Mon Nov 17 20:53:19 2014/-kb/
+/mk_PL_charclass.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/mk_invlists.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/opcode.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/
+/opcodes/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/overload.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/
+/reentr.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/regcharclass.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/regcharclass_multi_char_folds.pl/1.1.1.2/Mon Nov 17 20:53:19 2014/-kb/
+/regcomp.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+/regen_lib.pl/1.1.1.2/Mon Nov 17 20:53:19 2014/-ko/
+/uconfig_h.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/
+/unicode_constants.pl/1.1.1.2/Mon Nov 17 20:53:19 2014/-kb/
+/warnings.pl/1.1.1.3/Mon Nov 17 20:53:19 2014/-ko/
+D

@@ -1,0 +1,19 @@
+/ChangeLog/1.1.1.2/Fri Dec 24 22:41:20 2004//
+/Makefile.am/1.1.1.1/Mon Jan  5 15:46:06 2004//
+/Makefile.in/1.1.1.1/Mon Jan  5 15:46:06 2004//
+/_G_config.h/1.2/Fri Jun 17 20:40:31 2005//
+/filedoalloc.c/1.1.1.1/Mon Jan  5 15:46:06 2004//
+/fileops.c/1.2/Fri Jun 17 20:40:31 2005//
+/genops.c/1.2/Fri Jun 17 20:40:31 2005//
+/iofclose.c/1.1.1.1/Mon Jan  5 15:46:08 2004//
+/iofopen.c/1.2/Fri Jun 17 20:40:31 2005//
+/iofwide.c/1.2/Fri Jun 17 20:40:31 2005//
+/iolibio.h/1.1.1.2/Fri Dec 24 22:41:17 2004//
+/libio.h/1.2/Fri Jun 17 20:40:31 2005//
+/libioP.h/1.2/Fri Jun 17 20:40:31 2005//
+/stdfiles.c/1.2/Fri Jun 17 20:40:31 2005//
+/stdio.c/1.1.1.1/Mon Jan  5 15:46:10 2004//
+/wfiledoalloc.c/1.3/Fri Jun 17 20:40:31 2005//
+/wfileops.c/1.2/Fri Jun 17 20:40:31 2005//
+/wgenops.c/1.2/Fri Jun 17 20:40:31 2005//
+D

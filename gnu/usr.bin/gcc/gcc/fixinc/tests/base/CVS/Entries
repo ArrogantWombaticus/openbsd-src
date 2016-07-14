@@ -1,0 +1,47 @@
+/_G_config.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/assert.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/c_asm.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/ctrl-quotes-def-1.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/ctype.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/curses.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/fcntl.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/fixinc-test-limits.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/inttypes.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/io-quotes-def-1.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/libgen.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/malloc.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/math.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/obstack.h/1.1.1.1/Fri Dec 24 23:51:47 2004//
+/pthread.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/reg_types.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/regex.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/stdio.h/1.1.1.2/Fri Dec 24 23:51:47 2004//
+/stdio_tag.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/stdlib.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/string.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/strings.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/sym.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/testing.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/time.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/tinfo.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/unistd.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+/widec.h/1.1.1.1/Sat Nov 29 12:35:52 2003//
+D/X11////
+D/Xm////
+D/ansi////
+D/arch////
+D/arpa////
+D/bsd////
+D/hsfs////
+D/internal////
+D/machine////
+D/netdnet////
+D/netinet////
+D/pixrect////
+D/rpc////
+D/rpcsvc////
+D/sparc////
+D/sundev////
+D/sunwindow////
+D/sys////
+D/types////

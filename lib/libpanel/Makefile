@@ -1,0 +1,24 @@
+# $OpenBSD: Makefile,v 1.12 2016/07/04 18:01:44 guenther Exp $
+
+LIB=	panel
+SRCS=	p_above.c p_below.c p_bottom.c p_delete.c p_hidden.c p_hide.c p_move.c \
+	p_new.c p_replace.c p_show.c p_top.c p_update.c p_user.c p_win.c panel.c
+HDRS=	panel.h
+MAN=	panel.3
+CFLAGS+= -I${.CURDIR}/../libcurses
+
+includes:
+	@cd ${.CURDIR}; for i in ${HDRS}; do \
+	  cmp -s $$i ${DESTDIR}/usr/include/$$i || \
+	  ${INSTALL} ${INSTALL_COPY} -m 444 -o $(BINOWN) -g $(BINGRP) $$i \
+	  ${DESTDIR}/usr/include; done
+
+.include <bsd.own.mk>
+
+afterinstall:
+	-cd ${DESTDIR}${LIBDIR}; \
+	for i in ${_LIBS}; do \
+	    ln -f $$i `echo $$i | sed 's/panel/panelw/'`; \
+	done
+
+.include <bsd.lib.mk>

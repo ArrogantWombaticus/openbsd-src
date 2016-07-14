@@ -1,0 +1,27 @@
+/Makefile.am/1.5/Mon Jul 17 16:12:36 2006//
+/Makefile.in/1.4/Mon Jul 17 16:12:36 2006//
+/README/1.1.1.4/Mon Jul 17 16:03:49 2006//
+/deref.c/1.1.1.2/Wed Feb  9 01:26:22 2000//
+/dir-example/1.1.1.1/Mon Jul 17 16:03:50 2006//
+/fix-info-dir/1.1.1.2/Mon Jul 17 16:03:50 2006//
+/fixfonts/1.1.1.1/Fri Dec 22 16:47:17 1995//
+/fixref.gawk/1.1.1.1/Wed Feb  9 01:26:22 2000//
+/gdoc/1.1.1.1/Mon Jul 17 16:03:50 2006//
+/gen-dir-node/1.5/Mon Jul 17 16:12:36 2006//
+/gendocs.sh/1.1.1.1/Mon Jul 17 16:03:50 2006//
+/gendocs_template/1.1.1.1/Mon Jul 17 16:03:50 2006//
+/infosrch/1.1.1.1/Mon Jul 17 16:03:50 2006//
+/install-info-html/1.1.1.2/Mon Jul 17 16:03:50 2006//
+/install-info.c/1.9/Sat Nov 14 23:06:06 2015//
+/outline.gawk/1.1.1.1/Wed Feb  9 01:26:23 2000//
+/prepinfo.awk/1.1.1.1/Wed Feb  9 01:26:24 2000//
+/tex3patch/1.1.1.2/Mon Jul 17 16:03:50 2006//
+/texi-docstring-magic.el/1.1.1.2/Mon Jul 17 16:03:50 2006//
+/texi2dvi/1.6/Sat Dec 23 19:00:33 2006//
+/texi2pdf/1.1.1.1/Mon Jul 17 16:03:51 2006//
+/texindex.c/1.6/Sat Nov 14 23:06:06 2015//
+/texinfo-cat.in/1.1.1.1/Mon Jul 17 16:03:51 2006//
+/texinfo.dtd/1.1.1.1/Mon Jul 17 16:03:49 2006//
+/texinfo.xsl/1.1.1.1/Mon Jul 17 16:03:49 2006//
+/txitextest/1.1.1.1/Mon Jul 17 16:03:51 2006//
+D

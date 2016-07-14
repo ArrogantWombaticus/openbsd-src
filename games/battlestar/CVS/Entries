@@ -1,0 +1,27 @@
+/Makefile/1.10/Wed Nov 25 23:18:11 2015//
+/battlestar.6/1.19/Sun Nov 29 16:05:38 2015//
+/battlestar.c/1.20/Fri Jan  1 15:56:04 2016//
+/com1.c/1.15/Thu Dec 31 17:51:19 2015//
+/com2.c/1.18/Thu Dec 31 17:51:19 2015//
+/com3.c/1.14/Thu Dec 31 17:51:19 2015//
+/com4.c/1.15/Thu Dec 31 17:51:19 2015//
+/com5.c/1.13/Thu Dec 31 17:51:19 2015//
+/com6.c/1.22/Thu Dec 31 17:51:19 2015//
+/com7.c/1.13/Thu Dec 31 17:51:19 2015//
+/cypher.c/1.19/Thu Dec 31 17:51:19 2015//
+/dayfile.c/1.12/Sun Nov 22 09:16:02 2009//
+/dayobjs.c/1.7/Tue Oct 27 23:59:24 2009//
+/extern.h/1.20/Thu Dec 31 17:51:19 2015//
+/fly.c/1.14/Thu Dec 31 17:51:19 2015//
+/getcom.c/1.16/Thu Dec 31 17:51:19 2015//
+/globals.c/1.14/Fri Apr  5 01:28:27 2013//
+/init.c/1.16/Thu Dec 31 17:51:19 2015//
+/misc.c/1.8/Tue Oct 27 23:59:24 2009//
+/nightfile.c/1.11/Tue Oct 27 23:59:24 2009//
+/nightobjs.c/1.7/Tue Oct 27 23:59:24 2009//
+/parse.c/1.16/Thu Dec 31 17:51:19 2015//
+/pathnames.h/1.4/Tue Jun  3 03:01:38 2003//
+/room.c/1.11/Thu Dec 31 17:51:19 2015//
+/save.c/1.13/Thu Dec 31 17:51:19 2015//
+/words.c/1.10/Tue Oct 27 23:59:24 2009//
+D

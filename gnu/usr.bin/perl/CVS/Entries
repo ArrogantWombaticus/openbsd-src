@@ -1,0 +1,228 @@
+/AUTHORS/1.2/Sun Jul  3 01:07:47 2016/-ko/
+/Artistic/1.3/Mon Mar 25 20:40:40 2013/-ko/
+/Changes/1.16/Mon Mar 25 20:40:40 2013/-ko/
+/Configure/1.34/Sun Jul  3 01:07:47 2016/-ko/
+/Copying/1.1.1.3/Mon Mar 25 20:06:21 2013/-ko/
+/DynaLoader.sed/1.4/Mon Nov 17 21:00:55 2014/-ko/
+/EXTERN.h/1.9/Mon Mar 24 15:05:12 2014/-ko/
+/INSTALL/1.18/Sun Jul  3 01:07:47 2016/-ko/
+/INTERN.h/1.8/Mon Sep 29 17:35:56 2008/-ko/
+/MANIFEST/1.39/Sun Jul  3 01:07:47 2016/-ko/
+/META.json/1.2/Sun Jul  3 01:07:47 2016/-kb/
+/META.yml/1.2/Sun Jul  3 01:07:47 2016/-ko/
+/Makefile.SH/1.33/Sun Jul  3 01:07:47 2016/-ko/
+/Makefile.bsd-wrapper/1.103/Sun Jul  3 01:07:47 2016//
+/Makefile.bsd-wrapper1/1.28/Sat May  7 21:59:33 2016//
+/Makefile.micro/1.1.1.7/Mon Mar 24 14:58:45 2014/-ko/
+/Policy_sh.SH/1.1.1.7/Mon Mar 24 14:58:46 2014/-ko/
+/README/1.16/Sat Apr 25 19:14:37 2015/-ko/
+/README.aix/1.1.1.10/Mon Mar 24 14:58:47 2014/-ko/
+/README.amiga/1.7/Mon Mar 25 20:40:43 2013/-ko/
+/README.android/1.1.1.1/Mon Nov 17 20:52:38 2014/-kb/
+/README.bs2000/1.1.1.5/Mon Mar 24 14:58:47 2014/-ko/
+/README.ce/1.1.1.7/Mon Nov 17 20:52:38 2014/-ko/
+/README.cn/1.1.1.7/Mon Mar 24 14:58:47 2014/-ko/
+/README.cygwin/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/
+/README.dos/1.1.1.7/Fri Sep 24 14:48:26 2010/-ko/
+/README.freebsd/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/
+/README.haiku/1.2/Sun Jul  3 01:07:47 2016/-ko/
+/README.hpux/1.1.1.12/Mon Mar 24 14:58:47 2014/-ko/
+/README.hurd/1.1.1.5/Mon Mar 25 20:06:36 2013/-ko/
+/README.irix/1.1.1.4/Mon Mar 25 20:06:36 2013/-ko/
+/README.jp/1.1.1.6/Mon Mar 24 14:58:47 2014/-ko/
+/README.ko/1.1.1.6/Mon Nov 17 20:52:39 2014/-ko/
+/README.linux/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/
+/README.macos/1.1.1.4/Mon Mar 25 20:06:36 2013/-ko/
+/README.macosx/1.2/Sun Jul  3 01:07:47 2016/-ko/
+/README.micro/1.1.1.5/Mon Mar 25 20:06:36 2013/-ko/
+/README.netware/1.1.1.6/Mon Nov 17 20:52:39 2014/-ko/
+/README.openbsd/1.1.1.2/Mon Mar 25 20:06:36 2013/-ko/
+/README.os2/1.18/Sun Jul  3 01:07:47 2016/-ko/
+/README.os390/1.1.1.7/Mon Mar 24 14:58:47 2014/-ko/
+/README.os400/1.1.1.2/Mon Mar 25 20:06:37 2013/-ko/
+/README.plan9/1.2/Sun Oct 27 22:25:17 2002/-ko/
+/README.qnx/1.6/Mon Nov 17 20:56:47 2014/-ko/
+/README.riscos/1.1.1.2/Mon Mar 25 20:06:37 2013/-ko/
+/README.solaris/1.8/Mon Nov 17 20:56:47 2014/-ko/
+/README.symbian/1.1.1.3/Mon Mar 25 20:06:37 2013/-ko/
+/README.synology/1.1.1.1/Mon Nov 17 20:52:39 2014/-kb/
+/README.tru64/1.1.1.5/Mon Nov 17 20:52:39 2014/-ko/
+/README.tw/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/
+/README.vms/1.19/Sun Jul  3 01:07:47 2016/-ko/
+/README.vos/1.1.1.10/Mon Mar 24 14:58:47 2014/-ko/
+/README.win32/1.16/Sat Apr 25 19:14:37 2015/-ko/
+/TestInit.pm/1.1.1.2/Mon Mar 25 20:06:41 2013/-ko/
+/XSUB.h/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/autodoc.pl/1.1.1.11/Mon Nov 17 20:52:31 2014/-ko/
+/av.c/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/av.h/1.13/Mon Nov 17 20:56:47 2014/-ko/
+/caretx.c/1.1.1.1/Mon Nov 17 20:52:31 2014/-kb/
+/cflags.SH/1.14/Mon Nov 17 20:56:47 2014/-ko/
+/charclass_invlists.h/1.1.1.3/Mon Nov 17 20:52:34 2014/-ko/
+/config.over/1.20/Mon Nov 17 21:36:21 2014//
+/config_h.SH/1.19/Sat Apr 25 19:26:15 2015/-ko/
+/configpm/1.21/Sat Apr 25 19:26:15 2015/-ko/
+/configure.com/1.4/Sat Apr 25 19:26:15 2015/-ko/
+/configure.gnu/1.10/Mon Mar 25 20:40:43 2013/-ko/
+/cop.h/1.17/Sun Jul  3 01:07:47 2016/-ko/
+/cv.h/1.15/Mon Nov 17 20:56:47 2014/-ko/
+/deb.c/1.17/Sat Apr 25 19:26:15 2015/-ko/
+/doio.c/1.18/Mon Nov 17 20:56:47 2014/-ko/
+/doop.c/1.17/Mon Nov 17 20:56:47 2014/-ko/
+/dosish.h/1.13/Mon Nov 17 20:56:47 2014/-ko/
+/dquote_static.c/1.1.1.3/Mon Nov 17 20:52:35 2014/-ko/
+/dump.c/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/embed.fnc/1.2/Sun Jul  3 01:07:47 2016/-ko/
+/embed.h/1.18/Sun Jul  3 01:07:47 2016/-ko/
+/embedvar.h/1.1.1.14/Mon Nov 17 20:52:36 2014/-ko/
+/fakesdio.h/1.1.1.5/Mon Mar 24 14:58:44 2014/-ko/
+/feature.h/1.1.1.3/Mon Nov 17 20:52:36 2014/-ko/
+/form.h/1.9/Mon Mar 25 20:40:44 2013/-ko/
+/generate_uudmap.c/1.1.1.4/Mon Mar 25 20:06:23 2013/-ko/
+/git_version.h/1.7/Mon Nov 17 21:00:55 2014/-ko/
+/globals.c/1.1.1.12/Mon Mar 24 14:58:44 2014/-ko/
+/globvar.sym/1.9/Mon Nov 17 20:56:47 2014/-ko/
+/gv.c/1.18/Sun Jul  3 01:07:47 2016/-ko/
+/gv.h/1.14/Mon Nov 17 20:56:47 2014/-ko/
+/handy.h/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/hv.c/1.20/Sun Jul  3 01:07:48 2016/-ko/
+/hv.h/1.14/Mon Nov 17 20:56:47 2014/-ko/
+/hv_func.h/1.2/Sun Jul  3 01:07:48 2016/-kb/
+/inline.h/1.2/Sun Jul  3 01:07:48 2016/-kb/
+/inline_invlist.c/1.1.1.2/Mon Nov 17 20:52:36 2014/-kb/
+/install_lib.pl/1.1.1.4/Mon Nov 17 20:52:36 2014/-ko/
+/installhtml/1.13/Mon Nov 17 20:56:47 2014/-ko/
+/installman/1.13/Mon Nov 17 20:56:47 2014/-ko/
+/installperl/1.34/Sat Apr 25 19:26:15 2015/-ko/
+/intrpvar.h/1.2/Sun Jul  3 01:07:48 2016/-ko/
+/iperlsys.h/1.1.1.12/Mon Nov 17 20:52:36 2014/-ko/
+/keywords.c/1.1.1.2/Mon Nov 17 20:52:36 2014/-ko/
+/keywords.h/1.10/Mon Nov 17 20:56:47 2014/-ko/
+/l1_char_class_tab.h/1.1.1.2/Mon Mar 24 14:58:44 2014/-ko/
+/locale.c/1.2/Sun Jul  3 01:07:48 2016/-ko/
+/madly.c/1.1.1.2/Mon Mar 24 14:58:44 2014/-ko/
+/make_ext.pl/1.1.1.6/Sat Apr 25 19:10:09 2015/-ko/
+/make_patchnum.pl/1.1.1.5/Mon Nov 17 20:52:36 2014/-ko/
+/makedef.pl/1.10/Sat Apr 25 19:14:37 2015/-ko/
+/makedepend.SH/1.11/Mon Nov 17 20:56:47 2014/-ko/
+/malloc.c/1.15/Mon Nov 17 20:56:47 2014/-ko/
+/malloc_ctl.h/1.1.1.2/Mon Mar 25 20:06:26 2013/-ko/
+/mathoms.c/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/
+/metaconfig.SH/1.1.1.1/Mon Mar 25 20:06:27 2013/-ko/
+/metaconfig.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/
+/mg.c/1.21/Sun Jul  3 01:07:48 2016/-ko/
+/mg.h/1.15/Sun Jul  3 01:07:48 2016/-ko/
+/mg_names.c/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/
+/mg_raw.h/1.1.1.3/Mon Nov 17 20:52:37 2014/-ko/
+/mg_vtable.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/
+/miniperlmain.c/1.14/Mon Nov 17 20:56:47 2014/-ko/
+/mkppport/1.1.1.4/Mon Mar 25 20:06:27 2013/-ko/
+/mkppport.lst/1.1.1.5/Mon Nov 17 20:52:37 2014/-ko/
+/mro.c/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/
+/myconfig.SH/1.1.1.8/Mon Nov 17 20:52:37 2014/-ko/
+/mydtrace.h/1.1.1.3/Mon Mar 24 14:58:45 2014/-ko/
+/nostdio.h/1.6/Mon Mar 24 15:05:13 2014/-ko/
+/numeric.c/1.1.1.10/Mon Nov 17 20:52:37 2014/-ko/
+/op.c/1.20/Sun Jul  3 01:07:48 2016/-ko/
+/op.h/1.18/Sun Jul  3 01:07:48 2016/-ko/
+/op_reg_common.h/1.1.1.2/Mon Mar 24 14:58:45 2014/-ko/
+/opcode.h/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/opnames.h/1.1.1.12/Mon Nov 17 20:52:37 2014/-ko/
+/overload.c/1.1.1.5/Mon Mar 24 14:58:45 2014/-ko/
+/overload.h/1.1.1.4/Mon Mar 24 14:58:45 2014/-ko/
+/packsizetables.c/1.1.1.1/Mon Nov 17 20:52:37 2014/-kb/
+/pad.c/1.2/Sun Jul  3 01:07:48 2016/-ko/
+/pad.h/1.1.1.9/Sat Apr 25 19:10:10 2015/-ko/
+/parser.h/1.1.1.6/Mon Nov 17 20:52:37 2014/-ko/
+/patchlevel.h/1.41/Fri Jul  8 14:26:04 2016/-ko/
+/perl.c/1.28/Sun Jul  3 01:07:48 2016/-ko/
+/perl.h/1.20/Sat Apr 25 19:14:37 2015/-ko/
+/perlapi.c/1.1.1.8/Mon Mar 25 20:06:29 2013/-ko/
+/perlapi.h/1.1.1.12/Mon Mar 24 14:58:46 2014/-ko/
+/perldtrace.d/1.1.1.3/Mon Mar 24 14:58:46 2014/-ko/
+/perlio.c/1.17/Mon Nov 17 20:56:47 2014/-ko/
+/perlio.h/1.11/Mon Nov 17 20:56:47 2014/-ko/
+/perlio.sym/1.4/Mon Nov 17 20:56:47 2014/-ko/
+/perliol.h/1.1.1.8/Mon Nov 17 20:52:38 2014/-ko/
+/perlsdio.h/1.10/Mon Mar 24 15:05:13 2014/-ko/
+/perlvars.h/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/
+/perly.act/1.1.1.6/Mon Nov 17 20:52:38 2014/-ko/
+/perly.c/1.15/Mon Nov 17 20:56:47 2014/-ko/
+/perly.h/1.9/Mon Nov 17 20:56:47 2014/-ko/
+/perly.tab/1.1.1.6/Mon Nov 17 20:52:38 2014/-ko/
+/perly.y/1.16/Mon Nov 17 20:56:47 2014/-ko/
+/pp.c/1.22/Thu Jul 16 15:19:55 2015/-ko/
+/pp.h/1.15/Mon Nov 17 20:56:48 2014/-ko/
+/pp_ctl.c/1.18/Sat Apr 25 19:14:37 2015/-ko/
+/pp_hot.c/1.17/Mon Nov 17 20:56:48 2014/-ko/
+/pp_pack.c/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/
+/pp_proto.h/1.1.1.10/Mon Nov 17 20:52:38 2014/-ko/
+/pp_sort.c/1.1.1.11/Mon Nov 17 20:52:38 2014/-ko/
+/pp_sys.c/1.18/Sun Jul  3 01:07:48 2016/-ko/
+/proto.h/1.18/Sun Jul  3 01:07:48 2016/-ko/
+/reentr.c/1.1.1.10/Mon Nov 17 20:52:39 2014/-ko/
+/reentr.h/1.1.1.9/Mon Nov 17 20:52:39 2014/-ko/
+/regcharclass.h/1.1.1.4/Mon Nov 17 20:52:39 2014/-ko/
+/regcomp.c/1.21/Sun Jul  3 01:07:48 2016/-ko/
+/regcomp.h/1.14/Mon Nov 17 20:56:48 2014/-ko/
+/regcomp.sym/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/
+/regen.pl/1.1.1.7/Mon Nov 17 20:52:39 2014/-ko/
+/regen_perly.pl/1.1.1.4/Mon Mar 24 14:58:47 2014/-ko/
+/regexec.c/1.20/Sun Jul  3 01:07:48 2016/-ko/
+/regexp.h/1.13/Mon Nov 17 20:56:48 2014/-ko/
+/regnodes.h/1.1.1.10/Mon Nov 17 20:52:39 2014/-ko/
+/run.c/1.13/Mon Mar 24 15:05:13 2014/-ko/
+/runtests.SH/1.1.1.3/Mon Nov 17 20:52:39 2014/-ko/
+/scope.c/1.16/Mon Nov 17 20:56:48 2014/-ko/
+/scope.h/1.16/Mon Nov 17 20:56:48 2014/-ko/
+/shlib_version/1.19/Sat Apr 25 19:26:15 2015/-ko/
+/sv.c/1.22/Sun Jul  3 01:07:48 2016/-ko/
+/sv.h/1.19/Sun Jul  3 01:07:49 2016/-ko/
+/taint.c/1.16/Mon Nov 17 20:56:48 2014/-ko/
+/thread.h/1.1.1.12/Mon Nov 17 20:52:40 2014/-ko/
+/time64.c/1.1.1.4/Mon Nov 17 20:52:40 2014/-ko/
+/time64.h/1.1.1.2/Mon Nov 17 20:52:40 2014/-ko/
+/time64_config.h/1.1.1.1/Fri Sep 24 14:48:32 2010/-ko/
+/toke.c/1.20/Sun Jul  3 01:07:49 2016/-ko/
+/uconfig.h/1.7/Sat Apr 25 19:26:15 2015/-ko/
+/uconfig.sh/1.7/Sat Apr 25 19:26:15 2015/-ko/
+/uconfig64.sh/1.7/Sat Apr 25 19:26:15 2015/-ko/
+/unicode_constants.h/1.1.1.2/Mon Nov 17 20:52:40 2014/-kb/
+/universal.c/1.17/Mon Nov 17 20:56:48 2014/-ko/
+/unixish.h/1.12/Mon Mar 24 15:05:13 2014/-ko/
+/utf8.c/1.1.1.14/Sat Apr 25 19:10:14 2015/-ko/
+/utf8.h/1.1.1.11/Mon Nov 17 20:52:40 2014/-ko/
+/utfebcdic.h/1.1.1.9/Mon Nov 17 20:52:40 2014/-ko/
+/util.c/1.24/Sun Jul  3 01:07:49 2016/-ko/
+/util.h/1.14/Mon Nov 17 20:56:48 2014/-ko/
+/utils.lst/1.14/Thu May 21 03:58:09 2015/-ko/
+/vutil.c/1.4/Sat Apr 25 19:26:15 2015/-kb/
+/vutil.h/1.1.1.1/Mon Nov 17 20:52:40 2014/-kb/
+/vxs.inc/1.1.1.1/Mon Nov 17 20:52:40 2014/-kb/
+/warnings.h/1.1.1.9/Mon Nov 17 20:52:40 2014/-ko/
+/write_buildcustomize.pl/1.1.1.2/Mon Nov 17 20:52:40 2014/-ko/
+D/Cross////
+D/NetWare////
+D/Porting////
+D/cpan////
+D/cygwin////
+D/dist////
+D/djgpp////
+D/ext////
+D/h2pl////
+D/haiku////
+D/hints////
+D/lib////
+D/mad////
+D/os2////
+D/plan9////
+D/pod////
+D/qnx////
+D/regen////
+D/symbian////
+D/t////
+D/utils////
+D/vms////
+D/vos////
+D/win32////
+D/x2p////

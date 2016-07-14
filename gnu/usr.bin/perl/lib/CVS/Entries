@@ -1,0 +1,98 @@
+/AnyDBM_File.pm/1.12/Sat Apr 25 19:26:22 2015/-ko/
+/AnyDBM_File.t/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/
+/Benchmark.pm/1.15/Mon Nov 17 20:57:06 2014/-ko/
+/Benchmark.t/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/
+/CORE.pod/1.1.1.3/Mon Mar 24 14:59:03 2014/-ko/
+/Config.t/1.6/Sat Apr 25 19:26:22 2015/-ko/
+/Config_git.pl/1.1/Thu May 20 19:26:32 2010/-ko/
+/DB.pm/1.1.1.7/Mon Nov 17 20:53:07 2014/-ko/
+/DB.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/
+/DBM_Filter.pm/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/
+/DirHandle.pm/1.1.1.5/Mon Mar 25 20:08:51 2013/-ko/
+/DirHandle.t/1.1.1.4/Mon Mar 25 20:08:51 2013/-ko/
+/English.pm/1.12/Mon Nov 17 20:57:06 2014/-ko/
+/English.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/
+/FileHandle.pm/1.6/Mon Oct 12 18:24:38 2009/-ko/
+/FileHandle.t/1.1.1.4/Mon Nov 17 20:53:07 2014/-ko/
+/FindBin.pm/1.9/Mon Mar 25 20:40:55 2013/-ko/
+/FindBin.t/1.1.1.3/Fri Sep 24 14:48:36 2010/-ko/
+/Internals.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/
+/PerlIO.pm/1.1.1.8/Mon Nov 17 20:53:08 2014/-ko/
+/SelectSaver.pm/1.5/Mon Oct 12 18:24:38 2009/-ko/
+/SelectSaver.t/1.1.1.1/Sun Oct 27 22:14:58 2002/-ko/
+/Symbol.pm/1.8/Mon Oct 12 18:24:38 2009/-ko/
+/Symbol.t/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/
+/Thread.pm/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/
+/Thread.t/1.1.1.1/Mon Sep 29 17:18:31 2008/-ko/
+/UNIVERSAL.pm/1.8/Mon Mar 25 20:40:55 2013/-ko/
+/_charnames.pm/1.1.1.3/Mon Nov 17 20:53:08 2014/-ko/
+/blib.pm/1.8/Mon Mar 25 20:40:55 2013/-ko/
+/blib.t/1.1.1.3/Fri Sep 24 14:48:34 2010/-ko/
+/bytes.pm/1.1.1.7/Fri Sep 24 14:48:37 2010/-ko/
+/bytes.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/
+/bytes_heavy.pl/1.1.1.3/Mon Sep 29 17:18:30 2008/-ko/
+/charnames.pm/1.1.1.12/Mon Nov 17 20:53:07 2014/-ko/
+/charnames.t/1.1.1.9/Mon Nov 17 20:53:07 2014/-ko/
+/dbm_filter_util.pl/1.1.1.2/Mon Mar 24 14:59:03 2014/-ko/
+/deprecate.pm/1.1.1.3/Mon Nov 17 20:53:07 2014/-ko/
+/diagnostics.pm/1.16/Mon Nov 17 20:57:06 2014/-ko/
+/diagnostics.t/1.1.1.5/Mon Nov 17 20:53:07 2014/-ko/
+/dumpvar.pl/1.10/Mon Mar 24 15:05:27 2014/-ko/
+/dumpvar.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/
+/feature.pm/1.1.1.7/Sat Apr 25 19:10:38 2015/-ko/
+/feature.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/
+/filetest.pm/1.1.1.5/Mon Mar 24 14:59:03 2014/-ko/
+/filetest.t/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/
+/h2ph.t/1.2/Sun Jul  3 01:08:01 2016/-ko/
+/h2xs.t/1.1.1.8/Mon Mar 24 14:59:03 2014/-ko/
+/integer.pm/1.1.1.6/Mon Nov 17 20:53:07 2014/-ko/
+/integer.t/1.1.1.2/Mon Sep 29 17:18:30 2008/-ko/
+/less.pm/1.1.1.4/Fri Sep 24 14:48:38 2010/-ko/
+/less.t/1.1.1.3/Fri Sep 24 14:48:35 2010/-ko/
+/locale.pm/1.6/Mon Nov 17 20:57:06 2014/-ko/
+/locale.t/1.7/Sat Apr 25 19:26:22 2015/-ko/
+/open.pm/1.1.1.9/Mon Mar 25 20:08:52 2013/-ko/
+/open.t/1.1.1.7/Mon Mar 25 20:08:52 2013/-ko/
+/overload.pm/1.14/Mon Mar 24 15:05:27 2014/-ko/
+/overload.t/1.1.1.11/Mon Nov 17 20:53:07 2014/-ko/
+/overload64.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/
+/overloading.pm/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/
+/overloading.t/1.1.1.2/Mon Mar 25 20:08:52 2013/-ko/
+/perl5db.pl/1.19/Sun Jul  3 01:08:01 2016/-ko/
+/perl5db.t/1.1.1.6/Mon Nov 17 20:53:08 2014/-ko/
+/sigtrap.pm/1.5/Mon Mar 24 15:05:27 2014/-ko/
+/sigtrap.t/1.1.1.2/Mon Mar 25 20:08:53 2013/-ko/
+/sort.pm/1.1.1.4/Mon Mar 24 14:59:03 2014/-ko/
+/sort.t/1.1.1.3/Mon Sep 29 17:18:31 2008/-ko/
+/strict.pm/1.10/Mon Nov 17 20:57:06 2014/-ko/
+/strict.t/1.1.1.6/Mon Mar 25 20:08:53 2013/-ko/
+/subs.pm/1.6/Mon Nov 17 20:57:06 2014/-ko/
+/subs.t/1.1.1.4/Mon Mar 25 20:08:53 2013/-ko/
+/utf8.pm/1.1.1.11/Mon Nov 17 20:53:08 2014/-ko/
+/utf8.t/1.9/Mon Nov 17 20:57:06 2014/-ko/
+/utf8_heavy.pl/1.1.1.9/Mon Nov 17 20:53:08 2014/-ko/
+/vars.pm/1.9/Mon Mar 24 15:05:27 2014/-ko/
+/vars.t/1.1.1.1/Sun Oct 27 22:14:58 2002/-ko/
+/vars_carp.t/1.1.1.1/Mon Sep 29 17:18:31 2008/-ko/
+/vmsish.pm/1.1.1.5/Mon Nov 17 20:53:08 2014/-ko/
+/vmsish.t/1.1.1.6/Mon Nov 17 20:53:08 2014/-ko/
+/warnings.pm/1.1.1.12/Mon Nov 17 20:53:08 2014/-ko/
+/warnings.t/1.1.1.5/Mon Mar 25 20:08:54 2013/-ko/
+D/B////
+D/Class////
+D/Config////
+D/DBM_Filter////
+D/ExtUtils////
+D/File////
+D/Getopt////
+D/Net////
+D/Pod////
+D/Tie////
+D/Time////
+D/Unicode////
+D/User////
+D/feature////
+D/overload////
+D/perl5db////
+D/unicore////
+D/warnings////

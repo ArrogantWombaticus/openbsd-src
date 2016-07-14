@@ -1,0 +1,27 @@
+/Makefile.am/1.6/Mon Jul 17 16:12:36 2006//
+/Makefile.in/1.5/Mon Jul 17 16:12:36 2006//
+/README/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/alloca.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/getopt.c/1.1.1.5/Mon Jul 17 16:03:41 2006//
+/getopt.h/1.1.1.5/Mon Jul 17 16:03:41 2006//
+/getopt1.c/1.1.1.5/Mon Jul 17 16:03:41 2006//
+/getopt_.h/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/getopt_int.h/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/gettext.h/1.1.1.2/Mon Jul 17 16:03:41 2006//
+/memcpy.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/memmove.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/mkstemp.c/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/strcase.h/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/strcasecmp.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/strdup.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+/strdup.h/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/strerror.c/1.1.1.2/Mon Jul 17 16:03:41 2006//
+/strncasecmp.c/1.1.1.2/Mon Jun 10 13:21:00 2002//
+/substring.c/1.1.1.2/Mon Jul 17 16:03:41 2006//
+/system.h/1.5/Mon Jul 17 16:12:36 2006//
+/tempname.c/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/xalloc.h/1.1.1.1/Mon Jul 17 16:03:41 2006//
+/xexit.c/1.1.1.2/Mon Jul 17 16:03:41 2006//
+/xmalloc.c/1.1.1.2/Mon Jul 17 16:03:41 2006//
+/xstrdup.c/1.1.1.3/Mon Jul 17 16:03:41 2006//
+D

@@ -1,0 +1,39 @@
+/nm-bsd.h/1.2/Mon Dec 27 14:00:45 2004//
+/nm-gnu.h/1.4/Mon Dec 27 14:00:45 2004//
+/nm-linux.h/1.1.1.2/Mon Dec 27 13:13:34 2004//
+/nm-lynx.h/1.4/Mon Dec 27 14:00:45 2004//
+/nm-nbsd.h/1.5/Mon Dec 27 14:00:45 2004//
+/nm-nbsdaout.h/1.1.1.1/Fri May 21 19:15:23 2004//
+/nm-sysv4.h/1.4/Mon Dec 27 14:00:45 2004//
+/tm-linux.h/1.1.1.2/Mon Dec 27 13:13:34 2004//
+/tm-lynx.h/1.3/Fri May 21 20:23:17 2004//
+/tm-nto.h/1.1.1.2/Mon Dec 27 13:13:33 2004//
+/tm-sysv4.h/1.3/Fri May 21 20:23:17 2004//
+/tm-vxworks.h/1.1.1.1/Fri May 21 19:15:23 2004//
+D/alpha////
+D/arm////
+D/avr////
+D/cris////
+D/d10v////
+D/djgpp////
+D/frv////
+D/h8300////
+D/i386////
+D/ia64////
+D/m32r////
+D/m68hc11////
+D/m68k////
+D/m88k////
+D/mcore////
+D/mips////
+D/mn10300////
+D/ns32k////
+D/pa////
+D/powerpc////
+D/rs6000////
+D/s390////
+D/sh////
+D/sparc////
+D/v850////
+D/vax////
+D/xstormy16////

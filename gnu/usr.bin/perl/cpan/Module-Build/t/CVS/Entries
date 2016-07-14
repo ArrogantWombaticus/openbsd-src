@@ -1,0 +1,47 @@
+/00-compile.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/PL_files.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/README.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/add_property.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/add_property_array.t/1.1.1.1/Mon Nov 17 20:52:57 2014/-kb/
+/add_property_hash.t/1.1.1.1/Mon Nov 17 20:52:57 2014/-kb/
+/basic.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/
+/bundle_inc.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/compat.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/debug.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/destinations.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/ext.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/extend.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/files.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/help.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/install.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/install_extra_target.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/manifypods.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/manifypods_with_utf8.t/1.1.1.1/Mon Nov 17 20:52:57 2014/-kb/
+/metadata.t/1.7/Mon Nov 17 20:57:01 2014/-ko/
+/metadata2.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/
+/mymeta.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/new_from_context.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/notes.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/parents.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/perl_mb_opt.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/pod_parser.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/ppm.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+/resume.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/runthrough.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/sample.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/script_dist.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/
+/test_file_exts.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/test_reqs.t/1.1.1.1/Mon Nov 17 20:52:57 2014/-kb/
+/test_type.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/test_types.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/tilde.t/1.1.1.3/Mon Nov 17 20:52:57 2014/-ko/
+/unit_run_test_harness.t/1.1.1.1/Mon Nov 17 20:52:57 2014/-kb/
+/use_tap_harness.t/1.1.1.2/Mon Mar 24 14:58:55 2014/-ko/
+/versions.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/write_default_maniskip.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/
+/xs.t/1.1.1.2/Mon Nov 17 20:52:57 2014/-ko/
+D/actions////
+D/bundled////
+D/compat////
+D/lib////
+D/properties////

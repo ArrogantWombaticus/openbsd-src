@@ -1,0 +1,12 @@
+/00impl-pp.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/01base.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/02derived.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/03require.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/04strict_lax.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/05sigdie.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/06noop.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/07locale.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/08_corelist.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/09_list_util.t/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+/coretests.pm/1.1.1.1/Mon Nov 17 20:53:02 2014/-kb/
+D

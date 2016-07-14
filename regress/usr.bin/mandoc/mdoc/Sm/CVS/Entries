@@ -1,0 +1,16 @@
+/Makefile/1.7/Wed Nov 26 19:22:44 2014//
+/badarg.in/1.1/Sat Jul  5 12:33:54 2014//
+/badarg.out_ascii/1.2/Tue Aug 26 11:32:56 2014//
+/badarg.out_lint/1.1/Sat Jul  5 12:33:54 2014//
+/noarg.in/1.1/Wed Jul  2 19:54:39 2014//
+/noarg.out_ascii/1.2/Tue Aug 26 11:32:56 2014//
+/scope.in/1.3/Thu Nov 17 16:28:46 2011//
+/scope.out_ascii/1.3/Tue Aug 26 11:32:56 2014//
+/spacing-No.in/1.2/Thu Nov 17 16:28:46 2011//
+/spacing-No.out_ascii/1.3/Tue Aug 26 11:32:56 2014//
+/spacing-Op.in/1.2/Thu Nov 17 16:28:46 2011//
+/spacing-Op.out_ascii/1.3/Tue Aug 26 11:32:56 2014//
+/twoarg.in/1.1/Wed Nov 26 19:22:44 2014//
+/twoarg.out_ascii/1.1/Wed Nov 26 19:22:44 2014//
+/twoarg.out_lint/1.1/Wed Nov 26 19:22:44 2014//
+D
