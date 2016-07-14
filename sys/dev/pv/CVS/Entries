@@ -1,4 +1,3 @@
-/files.pv/1.6/Wed Jun 22 01:13:07 2016//
 /hyperv.c/1.3/Mon Jun 27 13:06:41 2016//
 /hypervreg.h/1.1/Wed Jun 22 01:13:07 2016//
 /hypervvar.h/1.1/Wed Jun 22 01:13:07 2016//
@@ -11,4 +10,8 @@
 /xenreg.h/1.8/Mon Jan 18 19:06:48 2016//
 /xenstore.c/1.28/Tue Apr 19 18:15:41 2016//
 /xenvar.h/1.32/Tue Apr 19 18:15:41 2016//
+/files.pv/1.7/Thu Jul 14 18:27:19 2016//
+/if_hvn.c/1.1/Wed Jul 13 21:59:35 2016//
+/if_hvnreg.h/1.1/Wed Jul 13 21:59:35 2016//
+/rndisreg.h/1.1/Wed Jul 13 21:59:35 2016//
 D

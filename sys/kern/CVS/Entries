@@ -14,7 +14,6 @@
 /kern_bufq.c/1.31/Fri Aug 28 00:03:53 2015//
 /kern_clock.c/1.90/Thu Mar 24 05:40:56 2016//
 /kern_descrip.c/1.132/Sun May 29 13:51:53 2016//
-/kern_event.c/1.72/Fri May 13 19:05:07 2016//
 /kern_exec.c/1.182/Sat Jun 11 21:00:11 2016//
 /kern_exit.c/1.157/Mon Apr 25 20:00:33 2016//
 /kern_fork.c/1.187/Mon Apr 25 20:18:31 2016//
@@ -30,11 +29,9 @@
 /kern_rwlock.c/1.27/Sat Mar 14 07:33:42 2015//
 /kern_sched.c/1.43/Fri Jun  3 15:21:23 2016//
 /kern_sensors.c/1.36/Sat Mar 14 03:38:50 2015//
-/kern_sig.c/1.201/Wed Jul  6 15:53:01 2016//
 /kern_srp.c/1.10/Wed Jun  1 03:34:32 2016//
 /kern_subr.c/1.47/Tue Mar 15 04:19:26 2016//
 /kern_synch.c/1.133/Wed Jul  6 15:53:01 2016//
-/kern_sysctl.c/1.305/Fri May 27 19:45:04 2016//
 /kern_task.c/1.17/Tue Dec  8 11:48:54 2015//
 /kern_tc.c/1.29/Wed Jul  6 15:53:01 2016//
 /kern_time.c/1.97/Thu Apr 28 20:11:20 2016//
@@ -98,5 +95,8 @@
 /vfs_vops.c/1.16/Mon May 23 09:31:28 2016//
 /kern_pledge.c/1.178/Wed Jul 13 10:37:55 2016//
 /uipc_usrreq.c/1.99/Wed Jul 13 10:37:55 2016//
-/vfs_syscalls.c/1.262/Wed Jul 13 10:37:55 2016//
+/kern_event.c/1.74/Thu Jul 14 18:27:19 2016//
+/kern_sig.c/1.202/Thu Jul 14 18:27:19 2016//
+/kern_sysctl.c/1.306/Thu Jul 14 18:27:19 2016//
+/vfs_syscalls.c/1.263/Thu Jul 14 18:27:19 2016//
 D

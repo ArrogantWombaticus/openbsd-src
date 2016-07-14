@@ -25,7 +25,6 @@
 /event.h/1.21/Tue Oct  6 03:29:35 2015//
 /eventvar.h/1.3/Sun Mar 25 20:33:52 2012//
 /exec.h/1.34/Mon May 30 21:31:27 2016//
-/exec_elf.h/1.58/Sun May 29 00:48:05 2016//
 /exec_script.h/1.5/Fri Sep 19 05:41:29 2008//
 /extent.h/1.14/Sat Feb  8 20:29:01 2014//
 /fcntl.h/1.21/Sun May 17 01:22:01 2015//
@@ -128,4 +127,5 @@
 /vmmeter.h/1.14/Thu Apr 12 14:25:57 2012//
 /vnode.h/1.135/Mon May 23 09:31:28 2016//
 /wait.h/1.17/Fri Jun 13 22:40:31 2014//
+/exec_elf.h/1.59/Thu Jul 14 18:27:20 2016//
 D

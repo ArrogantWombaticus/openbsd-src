@@ -1,7 +1,6 @@
 /uvm.h/1.60/Thu Oct  8 15:58:38 2015//
 /uvm_addr.c/1.16/Thu Jun  2 18:48:01 2016//
 /uvm_addr.h/1.5/Mon Mar 30 21:05:17 2015//
-/uvm_amap.c/1.74/Mon Jul 11 08:38:49 2016//
 /uvm_amap.h/1.29/Thu May 26 13:37:26 2016//
 /uvm_anon.c/1.47/Fri Jun 17 10:48:25 2016//
 /uvm_anon.h/1.20/Sun May  8 11:52:32 2016//
@@ -22,7 +21,6 @@
 /uvm_map.c/1.217/Fri Jun 17 10:48:25 2016//
 /uvm_map.h/1.55/Wed Sep  9 23:33:37 2015//
 /uvm_meter.c/1.36/Sat Mar 14 03:38:53 2015//
-/uvm_mmap.c/1.134/Wed Jun  8 15:38:28 2016//
 /uvm_object.c/1.13/Fri Aug 21 16:04:35 2015//
 /uvm_object.h/1.21/Fri Jul 11 16:35:40 2014//
 /uvm_page.c/1.144/Fri Oct 30 16:47:01 2015//
@@ -44,4 +42,6 @@
 /uvm_vnode.c/1.92/Sat Mar 19 12:04:16 2016//
 /uvm_vnode.h/1.14/Tue Dec 16 18:30:04 2014//
 /uvmexp.h/1.2/Sun May  8 11:52:32 2016//
+/uvm_amap.c/1.75/Thu Jul 14 18:27:20 2016//
+/uvm_mmap.c/1.137/Thu Jul 14 18:27:20 2016//
 D

@@ -202,7 +202,6 @@
 /if_vgereg.h/1.2/Mon Nov 26 09:28:33 2007//
 /if_vgevar.h/1.5/Fri Mar 15 01:33:23 2013//
 /if_vic.c/1.96/Wed Apr 13 10:34:32 2016//
-/if_vio.c/1.41/Wed Apr 13 10:34:32 2016//
 /if_vmx.c/1.44/Wed Apr 13 10:34:32 2016//
 /if_vmxreg.h/1.3/Wed Aug 28 10:19:19 2013//
 /if_vr.c/1.152/Wed Apr 13 10:34:32 2016//
@@ -328,17 +327,10 @@
 /vga_pci_common.c/1.8/Thu Oct 29 07:47:03 2015//
 /vga_pcivar.h/1.20/Thu Oct 29 07:47:03 2015//
 /viapm.c/1.16/Fri Oct  5 10:51:28 2012//
-/vioblk.c/1.9/Sat Dec  5 19:57:03 2015//
 /vioblkreg.h/1.2/Fri Oct 12 21:12:19 2012//
 /viocon.c/1.2/Thu Dec 24 16:21:11 2015//
-/viomb.c/1.14/Thu Jun 11 04:38:23 2015//
-/viornd.c/1.2/Sat Mar 14 03:38:49 2015//
-/vioscsi.c/1.3/Sat Mar 14 03:38:49 2015//
 /vioscsireg.h/1.1/Fri Dec 20 21:50:49 2013//
-/virtio.c/1.18/Sat Dec  5 19:40:34 2015//
-/virtio_pci.c/1.12/Sun Nov 15 16:00:15 2015//
 /virtioreg.h/1.2/Fri Oct 12 21:12:19 2012//
-/virtiovar.h/1.6/Sat Dec  5 19:40:34 2015//
 /vmwpvs.c/1.13/Thu Sep 10 18:10:34 2015//
 /wdt.c/1.22/Wed Dec 10 12:27:57 2014//
 /xhci_pci.c/1.8/Wed Jun  1 06:19:59 2016//
@@ -348,3 +340,11 @@
 /ydsvar.h/1.6/Mon Dec 20 12:29:36 2004//
 D/bktr////
 D/drm////
+/if_vio.c/1.42/Thu Jul 14 18:27:18 2016//
+/vioblk.c/1.12/Thu Jul 14 18:27:18 2016//
+/viomb.c/1.15/Thu Jul 14 18:27:18 2016//
+/viornd.c/1.3/Thu Jul 14 18:27:18 2016//
+/vioscsi.c/1.5/Thu Jul 14 18:27:18 2016//
+/virtio.c/1.19/Thu Jul 14 18:27:18 2016//
+/virtio_pci.c/1.13/Thu Jul 14 18:27:18 2016//
+/virtiovar.h/1.8/Thu Jul 14 18:27:18 2016//

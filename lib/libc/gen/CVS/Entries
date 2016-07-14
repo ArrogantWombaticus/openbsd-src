@@ -183,7 +183,6 @@
 /strtofflags.c/1.7/Thu Aug 20 21:49:29 2015//
 /sysconf.3/1.33/Tue Jan 21 03:15:45 2014//
 /sysconf.c/1.24/Sun Mar 20 02:32:40 2016//
-/sysctl.3/1.265/Thu Jun 30 15:58:06 2016//
 /syslog.3/1.33/Wed Mar 30 06:58:06 2016//
 /syslog.c/1.33/Sat Oct 31 02:57:16 2015//
 /syslog_r.c/1.15/Sun Mar 27 16:28:56 2016//
@@ -227,4 +226,5 @@
 /warn.c/1.11/Mon Aug 31 02:53:57 2015//
 /warnc.c/1.2/Mon Aug 31 02:53:57 2015//
 /warnx.c/1.10/Mon Aug 31 02:53:57 2015//
+/sysctl.3/1.266/Thu Jul 14 18:26:59 2016//
 D
